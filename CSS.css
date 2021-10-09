@@ -1,0 +1,89 @@
+body{
+    height: auto;
+    width: 99vw;
+    background-image:url('https://i.postimg.cc/LRZqDb6V/n-n.png');
+    background-size: 100%;
+    background-repeat: repeat-y;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+#logo{
+    position: absolute;
+    left: 5vw;
+}
+.menu{
+    position: absolute;
+    top: 2vw;
+    font-size: 1.2vw;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+.trangchu{
+    position: absolute;
+    left: 50vw;
+    
+}
+.phanmem{
+    position: absolute;
+    left: 59vw;
+    background-color: indianred;
+    width: 8vw;
+    height: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 1.6vw;
+    border: 0.2vw solid white;
+    border-radius: 1vw;
+
+}
+.laptrinh{
+    position: absolute;
+    left: 70vw;
+}
+.trade{
+    position: absolute;
+    left: 80vw;
+}
+.thuthuat{
+    position: absolute;
+    left: 87vw
+}
+.app{
+    width: 15vw;
+    height: 10vw;
+    display: block;
+    position: absolute;
+    border-radius: 1vw;
+    border: 0.2vw solid brown;
+    box-sizing: border-box;
+}
+.chu{
+    font-size: 1vw;
+    width: 15vw;
+    display: block;
+    color: white;
+    text-decoration: none;
+    position:absolute;
+}
+.app1{
+    left: 10vw;
+    top: 12vw;
+}
+.chu1{
+    left: 10vw;
+    top: 22.5vw;
+}
+.app2{
+    left: 30vw;
+    top: 12vw;
+}
+.chu2{
+    left: 30vw;
+    top: 22.5vw ;
+}
+.app3{
+    left: 50vw;
+    top: 12vw;
+}
